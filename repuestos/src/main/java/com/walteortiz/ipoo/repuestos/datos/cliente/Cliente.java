@@ -12,7 +12,7 @@ private String nombre;
 private String direccion;
 private String telefono;
 private String password;
-//COnstructor.
+//Constructor 1.
 public Cliente(){
 	
 }
@@ -59,7 +59,7 @@ public String getPassword() {
 public void setPassword(String password) {
 	this.password = password;
 }
-//Constructor
+//Constructor 2.
 public Cliente(Long id, String nroDoc, String tipoDoc, String nombre, String direccion, String telefono,
 		String password) {
 	super();
