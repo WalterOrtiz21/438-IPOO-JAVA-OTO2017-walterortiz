@@ -2,7 +2,7 @@ package com.walteortiz.ipoo.repuestos.datos.cliente;
 
 
 //inicio de la clase
-//nomneclatura: visibilidad class nombre de la clase
+//nomenclatura: visibilidad class nombre de la clase
 public class Cliente {
 	//atributos
 private Long id;
